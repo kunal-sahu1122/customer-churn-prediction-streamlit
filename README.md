@@ -61,5 +61,13 @@ This project helps businesses identify customers who are likely to churn and tak
 
 ## 📸 Screenshots
 
-Add screenshots inside the `screenshots/` folder and update paths below:
+### Train Mode
+![Train Mode – Upload & Training](screenshots/train_mode.jpg)
+![Train Mode – Model Comparison](screenshots/train_mode_2.jpg)
+
+### Prediction Mode
+![Prediction Mode – Dataset Upload](screenshots/prediction_mode_1.jpg)
+![Prediction Mode – Churn Probability & Risk](screenshots/prediction_mode_2.jpg)
+![Prediction Mode – High Risk Call List](screenshots/prediction_mode_3.jpg)
+
 
